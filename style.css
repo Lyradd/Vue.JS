@@ -1,0 +1,47 @@
+html,
+body,
+ul,
+li {
+  margin: 20;
+  padding: 0;
+}
+
+body {
+  background-color: #ffffff;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  font-size: larger;
+  text-align: center;
+  padding: 20px;
+}
+
+#app {
+  background-color: #000000;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(61, 59, 59, 0.2);
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 400px;
+}
+
+#app ul {
+  padding: 0;
+}
+
+#app li {
+  font-size: 16px;
+  margin: 10px 0;
+  color: #fff;
+  text-align: left;
+}
+
+#app h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #fdf6f6;
+}
+
+#app h1,
+#app p {
+  color: #fff;
+}
